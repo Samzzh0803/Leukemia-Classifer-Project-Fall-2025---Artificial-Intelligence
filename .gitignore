@@ -1,5 +1,17 @@
 /data
+/data/processed
+/data/raw
 /models
+/app
+
+# Model files (stored on Hugging Face instead)
+# See MODEL_REGISTRY.md for download instructions
+notebooks/models/
+notebooks/models/*.h5
+notebooks/models/*.keras
+notebooks/models/*.model
+notebooks/models/*.joblib
+!notebooks/models/.gitkeep  # Keep directory structure
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -1,0 +1,4 @@
+# This file ensures the notebooks/models/ directory is tracked by git
+# even though actual model files are ignored (they're stored on Hugging Face)
+# 
+# Model files will be downloaded automatically via download_models.py

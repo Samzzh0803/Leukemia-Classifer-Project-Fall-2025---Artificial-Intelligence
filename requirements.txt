@@ -8,8 +8,5 @@ xgboost
 lightgbm 
 tensorflow
 keras
-streamlitpip 
-show 
-tensorflow
 
 
